@@ -52,7 +52,7 @@ if __name__ == '__main__':
 ![robo](./img/robomaster.png)
 ![robot](./r1.png)
 ## MobileRobot Movement Video:
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](https://youtu.be/FIiXZyqvniA)
+[![IMAGE ALT TEXT HERE](./utube.jpg)](https://youtu.be/FIiXZyqvniA)
 
 ## Result:
 Thus the python program code is developed to move the mobilerobot in the predefined path.
